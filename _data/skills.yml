@@ -11,8 +11,6 @@
       skill_name: JavaScript
     - class: python-plain
       skill_name: Python
-    - class: ruby-plain
-      skill_name: Ruby
     - class: c-plain
       skill_name: C
     - class: c++-plain
