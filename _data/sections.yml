@@ -16,9 +16,9 @@ resume:
   words: Check out or download my resume
   class: m6 algorithms
   border: algorithms
-contact:
-  url: /contact
-  heading: Contact
-  words: Feel free to shoot me an email
+skills:
+  url: /skills
+  heading: Skills
+  words: Here you can see my skills
   class: m6 contact
-  border: contact
+  border: skills
